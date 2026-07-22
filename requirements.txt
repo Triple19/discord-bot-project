@@ -1,1 +1,6 @@
+#The purpose of this file is to provide specific program or dependencies you may need to download for the project to run on your computer
+#This saves time as you can simply download the file instead of finding every program
+#Use the command: pip install -r requirements.txt
 
+discord.py==2.6.3
+python-dotenv==1.1.1

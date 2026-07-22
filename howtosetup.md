@@ -1,6 +1,6 @@
 Please Read this file to know how to run the project and contribute.
 
-How to Set Up the Discord Bot
+#### **How to Set Up the Discord Bot**
 
 Welcome! This guide will walk you through everything you need to get the Discord bot running on your computer. Even if you've never worked with Python or a Discord bot before, following these steps should get you up and running.
 
@@ -39,7 +39,7 @@ Downloading the Project
 
 There are two ways to get the project onto your computer.
 
-Option 1 (Recommended)
+## Option 1 (Recommended)
 
 Clone the repository using Git.
 
@@ -49,7 +49,7 @@ git clone <repository link>
 
 This downloads the latest version of the project.
 
-Option 2
+## Option 2
 
 Go to the GitHub repository.
 
@@ -59,7 +59,7 @@ Select Download ZIP.
 
 Extract the ZIP file somewhere easy to find.
 
-Opening the Project
+#### **Opening the Project**
 Open Visual Studio Code.
 Click File → Open Folder.
 Select the Discord Bot project folder.
@@ -78,7 +78,7 @@ Terminal → New Terminal
 
 Then run:
 
-pip install -r requirements.txt
+**pip install -r requirements.txt**
 
 This command automatically downloads every required dependency for the project.
 
